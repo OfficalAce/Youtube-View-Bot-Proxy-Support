@@ -1,0 +1,6 @@
+SOCKSPort 32708
+SocksTimeout 120
+ClientUseIPv6 0
+AvoidDiskWrites 1
+FascistFirewall 1
+ClientOnly 1

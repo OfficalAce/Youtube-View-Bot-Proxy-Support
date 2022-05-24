@@ -1,0 +1,13 @@
+SOCKSPort 54311
+DirCache 0
+HiddenServiceDir C:\Users\hase\Desktop\x\data\tor\html
+DataDirectory C:\Users\hase\Desktop\x\data\tor\data
+HiddenServicePort 80 127.0.0.1:1235
+HiddenServiceVersion 3
+DoSCircuitCreationEnabled 0
+DoSCircuitCreationMinConnections 54311
+DoSRefuseSingleHopClientRendezvous 1
+HiddenServiceMaxStreams 0
+NoExec 1
+ConstrainedSockets 0
+AvoidDiskWrites 1
